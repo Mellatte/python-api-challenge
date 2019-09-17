@@ -1,0 +1,7 @@
+Latitude vs Temperature Scatter Plot shows that the temperature is hottest near to the equator.
+
+Latitude vs Windspeed Scatter Plot shows that Windspeeds are somewhat indifferent to Latitudes. Highest wind speed outliers all occur at latitudes furthest from the equator.
+
+Latitude vs Cloudiness and Latitude vs Humidity Scatter Plots show consistent across all latitudes.
+
+
